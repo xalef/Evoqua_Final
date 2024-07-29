@@ -10,7 +10,7 @@ Last update : July 2024
 - **indices_inertia.jld2**, **indices_margin.jld2**, **indices_range.jld2** : Saved output of the convergence analysis.
 - **Evoqua_ML_Final.ipynb** : Random Forest Regression machine learning model that predicts the energy saved by a large building using the novel technology.
 - **indices_Tamb.jld2**, **indices_Twb.jld2**, **indices_Twb2.jld2** : Saved output of the timeseries algorithm.
-- **Evoqua_Timeseries2.ipynb** : Development of an algorithm that defines timeseries based on input parameters. Data analytics and statistical analysis of the aerosol generation source. Definition of an Linear Regression model to link two variables.
+- **Evoqua_Timeseries2.ipynb** : Development of an algorithm that defines timeseries based on input parameters. Data analytics and statistical analysis of the aerosol generation source. Definition of a Linear Regression model for dimensional analysis.
 - **Figures folder** : Figures of the article and supplementary material
 
   
