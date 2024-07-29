@@ -1,5 +1,7 @@
 This is the code for the following scientific article by Xavier Lefebvre : [Data-Driven Cooling Tower Optimization: A Comprehensive Analysis of Energy Savings using Microsand Filtration](https://arxiv.org/abs/2405.05346)  
 
+The code was written in Julia.
+
 Last update : July 2024
 
 # Data Science and Analytics files
